@@ -2,4 +2,4 @@ streamlit
 pandas
 numpy
 matplotlib
-pymcdm
+pymcdm==1.4.0
