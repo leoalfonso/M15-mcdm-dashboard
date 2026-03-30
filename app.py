@@ -3,7 +3,8 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from pymcdm import weights as w
-from pymcdm.methods import TOPSIS, MABAC, ARAS, SAW, WSM
+from pymcdm.methods import TOPSIS, MABAC, ARAS, WSM
+SAW = WSM
 from pymcdm.helpers import rrankdata
 from pymcdm import visuals
 
